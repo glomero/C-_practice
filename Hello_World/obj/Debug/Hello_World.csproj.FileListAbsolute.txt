@@ -1,0 +1,9 @@
+C:\Users\Administrator\Desktop\C#_pracrice\Hello_World\Hello_World\bin\Debug\Hello_World.exe
+C:\Users\Administrator\Desktop\C#_pracrice\Hello_World\Hello_World\bin\Debug\Hello_World.pdb
+C:\Users\Administrator\Desktop\C#_pracrice\Hello_World\Hello_World\obj\Debug\Hello_World.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\C#_pracrice\Hello_World\Hello_World\obj\Debug\Hello_World.Form1.resources
+C:\Users\Administrator\Desktop\C#_pracrice\Hello_World\Hello_World\obj\Debug\Hello_World.Properties.Resources.resources
+C:\Users\Administrator\Desktop\C#_pracrice\Hello_World\Hello_World\obj\Debug\Hello_World.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\C#_pracrice\Hello_World\Hello_World\obj\Debug\Hello_World.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\C#_pracrice\Hello_World\Hello_World\obj\Debug\Hello_World.exe
+C:\Users\Administrator\Desktop\C#_pracrice\Hello_World\Hello_World\obj\Debug\Hello_World.pdb
